@@ -1,4 +1,4 @@
- Smart Shelf AI – Retail Sales Forecasting System
+ Smart Shelf AI _ Retail Sales Forecasting System
 
 An end-to-end machine learning system for retail sales forecasting using XGBoost, optimized with Optuna, and deployed via a Flask backend. Predictions are consumed in real-time by an Android application.
 
